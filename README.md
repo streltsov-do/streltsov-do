@@ -10,12 +10,14 @@
 
   ------
 
-  - HTML, CSS, JavaScript
+  - HTML5, CSS3
+  - JavaScript
   - React
   - Redux
   - Styled-Components
+  - Git
+  - Webpack
 
-  
 
   ### Учебные проeкты
 
