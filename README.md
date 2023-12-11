@@ -26,9 +26,9 @@
 
   Закончил курс *Специализация «Frontend-разработчик»* в онлайн-школе SkillFactory (2022-2023гг.). В рамках данного курса выполнил два основных проекта:
 
-  - [Канбан-доска](https://github.com/streltsov-do/SF_KanbanBoard) [https://scan-ts-sdo.ucoz.net/] - инструмент для отображения и управления проектами. Используемый стэк: *ReactJS*, *CSS-modules*.
+  - [Канбан-доска](https://github.com/streltsov-do/SF_KanbanBoard) - инструмент для отображения и управления проектами. Используемый стэк: *ReactJS*, *CSS-modules*.
 
-  - [Сервис СКАН]( https://github.com/streltsov-do/SF_final_SCAN/tree/master_ts) [http://p91621ur.beget.tech/] - реализация клиентской части сайта для поиска публикаций о компании (юридическом лице) в средствах массовой информации по его ИНН. Используемый стэк: *ReactJS*, *Redux*, *Styled-components*
+  - [Сервис СКАН]( https://github.com/streltsov-do/SF_final_SCAN/tree/master_ts) [https://scan-ts-sdo.ucoz.net/] - реализация клиентской части сайта для поиска публикаций о компании (юридическом лице) в средствах массовой информации по его ИНН. Используемый стэк: *ReactJS*, *Redux*, *Styled-components*
 
     
 
