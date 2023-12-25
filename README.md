@@ -31,5 +31,5 @@
     
   Закончил курс *Специализация «Frontend-разработчик»* в онлайн-школе SkillFactory (2022-2023гг.)
 
-    [Сертификат об обучении](https://github.com/streltsov-do/streltsov-do/blob/main/%D0%A1%D1%82%D1%80%D0%B5%D0%BB%D1%8C%D1%86%D0%BE%D0%B2%20%D0%94%D0%B5%D0%BD%D0%B8%D1%81.pdf)
+[Сертификат об обучении](https://github.com/streltsov-do/streltsov-do/blob/main/Streltsov_Denis_SF_certificate.pdf)
 
