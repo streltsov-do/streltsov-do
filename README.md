@@ -22,7 +22,7 @@
 
   - [Канбан-доска](https://github.com/streltsov-do/SF_KanbanBoard) [http://p91621ur.beget.tech/]. - инструмент для отображения и управления проектами. Используемый стэк: *JavaScript*, *ReactJS*, *CSS-modules*.
 
-  - [Сервис СКАН]( https://github.com/streltsov-do/SF_final_SCAN/tree/master_ts) [https://scan-ts-sdo.ucoz.net/] - реализация клиентской части сайта для поиска публикаций о компании (юридическом лице) в средствах массовой информации по его ИНН. Используемый стэк: *TypeScript*, *ReactJS*, *Redux ToolKit*, *Styled-components*
+  - [Сервис СКАН](https://github.com/streltsov-do/SF_final_SCAN/) [https://scan-ts-sdo.ucoz.net/] - реализация клиентской части сайта для поиска публикаций о компании (юридическом лице) в средствах массовой информации по его ИНН. Используемый стэк: *TypeScript*, *ReactJS*, *Redux ToolKit*, *Styled-components*
 
 ------
 
