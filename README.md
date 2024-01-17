@@ -20,13 +20,16 @@
 
 ### Учебные проекты:
 
-  - [Канбан-доска](https://github.com/streltsov-do/SF_KanbanBoard) [http://p91621ur.beget.tech/]. - инструмент для отображения и управления проектами. Используемый стэк: *JavaScript*, *ReactJS*, *CSS-modules*.
+  - [Канбан-доска](https://github.com/streltsov-do/SF_KanbanBoard) [http://p91621ur.beget.tech/]. - инструмент для отображения и управления проектами. 
+Используемый стэк: *JavaScript*, *ReactJS*, *CSS-modules*.
 
-  - [Сервис СКАН](https://github.com/streltsov-do/SF_final_SCAN/) [https://scan-ts-sdo.ucoz.net/] - реализация клиентской части сайта для поиска публикаций о компании (юридическом лице) в средствах массовой информации по его ИНН. Используемый стэк: *TypeScript*, *ReactJS*, *Redux ToolKit*, *Styled-components*
+  - [Сервис СКАН](https://github.com/streltsov-do/SF_final_SCAN/) [https://scan-ts-sdo.ucoz.net/] - реализация клиентской части сайта для поиска публикаций о компании (юридическом лице) в средствах массовой информации по его ИНН.
+Используемый стэк: *TypeScript*, *ReactJS*, *Redux ToolKit*, *Styled-components*
 
 ### Пет-проекты:
 
-  - [superJS](https://github.com/streltsov-do/superJS/) - сайт для эффективного повторения JavaScript, HTML, CSS, TypeScript
+  - [superJS](https://github.com/streltsov-do/superJS/) [[http://hosting-str.byethost17.com/] - сайт для эффективного повторения JavaScript, HTML, CSS, TypeScript. Тесты, теория, полезные ссылки.
+Используемый стэк: *TypeScript*, *ReactJS*, *Ant Design*, *Redux Toolkit*
 
 ------
 
