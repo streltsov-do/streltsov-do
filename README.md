@@ -28,7 +28,7 @@
 
 ### Пет-проекты:
 
-  - [superJS](https://github.com/streltsov-do/superJS/) [[http://hosting-str.byethost17.com/] - сайт для эффективного повторения JavaScript, HTML, CSS, TypeScript. Тесты, теория, полезные ссылки.
+  - [superJS](https://github.com/streltsov-do/superJS/) [http://hosting-str.byethost17.com/] - сайт для эффективного повторения JavaScript, HTML, CSS, TypeScript. Тесты, теория, полезные ссылки.
 Используемый стэк: *TypeScript*, *ReactJS*, *Ant Design*, *Redux Toolkit*
 
 ------
